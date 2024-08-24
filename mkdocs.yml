@@ -1,6 +1,6 @@
 site_name: 暉長 | Radiant
 site_author: tcib_cat
-site_url: 'https://wiki.twstgaming.xyz'
+site_url: 'https://wiki.twstgaming.xyz/'
 
 copyright: Copyright © 2021 - 2024 twstgaming.xyz - All Rights Reserved
 
@@ -38,6 +38,8 @@ theme:
     - search.highlight # 搜索结果高亮
     - search.share # 搜索结果分享
     - navigation.footer # 页脚提示下一章
+    - content.tabs.link
+    - content.code.annotation
     - content.code.copy # 代码段上的赋值按钮
 
 extra:
