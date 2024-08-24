@@ -1,10 +1,12 @@
 site_name: 暉長 | Radiant
 site_author: tcib_cat
-site_url: 'https://wiki.twstgaming.xyz/'
+site_description: '暉長伺服器 Wiki 頁面'
+site_url: https://wiki.twstgaming.xyz/
 
 copyright: Copyright © 2021 - 2024 twstgaming.xyz - All Rights Reserved
 
-repo_name: '暉長伺服器 Wiki 頁面'
+repo_name: 暉長伺服器 Wiki 頁面
+repo_url: https://github.com/thecatisbest/radiant-wiki
 
 theme:
   name: material
