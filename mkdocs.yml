@@ -3,10 +3,9 @@ site_author: tcib_cat
 site_description: '暉長伺服器 Wiki 頁面'
 site_url: https://wiki.twstgaming.xyz/
 
-copyright: Copyright © 2021 - 2024 twstgaming.xyz - All Rights Reserved
+edit_uri: https://github.com/thecatisbest/radiant-wiki/edit/docs/docs
 
-repo_name: 暉長伺服器 Wiki 頁面
-repo_url: https://github.com/thecatisbest/radiant-wiki
+copyright: Copyright © 2021 - 2024 twstgaming.xyz - All Rights Reserved
 
 theme:
   name: material
@@ -40,6 +39,8 @@ theme:
     - search.highlight # 搜索结果高亮
     - search.share # 搜索结果分享
     - navigation.footer # 页脚提示下一章
+    - navigation.indexes
+    - content.action.edit
     - content.tabs.link
     - content.code.annotation
     - content.code.copy # 代码段上的赋值按钮
@@ -65,7 +66,9 @@ nav:
       - 功能清單/ah.md
 
 plugins:
+   - offline
    - search
+   - tags
    - glightbox:
        touchNavigation: true
        loop: false
