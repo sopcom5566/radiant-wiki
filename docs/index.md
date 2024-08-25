@@ -9,11 +9,11 @@
 
 <div class="grid cards" markdown>
 
--   [**新手教學**](新手教學/server-connect.md)
+-   [**如何開始**](新手教學/server-connect.md)
     
     ----
     
-    伺服器的連接方法
+    如何進入伺服器
 
 -   [**功能清單**](功能清單/ah.md)
     
