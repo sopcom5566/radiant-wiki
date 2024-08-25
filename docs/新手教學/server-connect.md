@@ -18,5 +18,5 @@
 2. 在 **伺服器位址** 上輸入 `twstgaming.xyz`
 ![圖片](assets/server-connect/type.png)
 
-3. 點擊 **完成** 並點擊 **加入伺服器** 即可游玩！
+3. 點擊 **完成** 並點擊 **加入伺服器** 即可遊玩！
 ![圖片](assets/server-connect/join.png)
