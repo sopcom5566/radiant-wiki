@@ -1,9 +1,9 @@
-# 連接帳號
+# 連接Discord帳號
 
 !!! 筆記
     本篇將會教您如何連接以及取消連接您的帳號
 
-## 連接帳號
+## 連接Discord帳號
 1. 打開聊天欄，輸入 `/discord link`
 <br>
 ![圖片](assets/discord-connect/link-type.png)
