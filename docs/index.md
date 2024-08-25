@@ -9,7 +9,7 @@
 
 <div class="grid cards" markdown>
 
--   [**如何開始**](如何開始/server-connect.md)
+-   [**如何開始**](新手教學/server-connect.md)
     
     ----
     
